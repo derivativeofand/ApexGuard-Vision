@@ -1,3 +1,14 @@
+# FastF1 cache (large, regenerates automatically, don't commit)
+fastf1_cache/
+
+# CSV file
+*.csv
+
+# Virtual environment
+venv/
+env/
+.venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
